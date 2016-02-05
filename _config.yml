@@ -1,0 +1,20 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Git Beard Tools
+email: beard@beard.tools
+description: > # this means to ignore newlines until "baseurl:"
+        Git Beard Tools is a collection of tips and tricks for working with 
+        git, github, Mac, and general development pracitices.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://git.beard.tools" # the base hostname & protocol for your site
+twitter_username: beardfromfargo
+github_username:  ryanhatfield
+
+# Build settings
+markdown: kramdown
