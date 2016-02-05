@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Git Beard Tools!"
+title:  "Welcome to Beard Tools!"
 date:   2016-02-05 07:13:58 -0600
 categories: update blog
 ---
