@@ -2,6 +2,6 @@
 
 # Beard Tools Blog
 
-Blog located at [http://beardtools.github.io/blog](http://beardtools.github.io/blog)
+Blog located at [http://beard.tools](http://beard.tools)
 
 
