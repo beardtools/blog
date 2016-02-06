@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Bash Your Terminal"
-date:   2016-02-05 08:40 -0600
-categories: tutorial bash
+date:   2016-02-07 8:00 -0600
+categories: tutorials bash
 ---
 
 ## Why Bash?
