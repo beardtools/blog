@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
         Beard Tools is a collection of tips and tricks for working with 
         git, github, Mac, and general development pracitices.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://beardtools.github.io" # the base hostname & protocol for your site
+url: "http://beard.tools" # the base hostname & protocol for your site
 twitter_username: beardfromfargo
 github_username:  ryanhatfield
 
