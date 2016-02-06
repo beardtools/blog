@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Beard Tools!"
 date:   2016-02-05 07:13:58 -0600
-categories: update blog
+categories: updates
 ---
 
 Welcome! Here, I hope to outline tips and trick of how to use a few wonderful development tools, and how to use some of the more advanced features of those tools. 
